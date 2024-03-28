@@ -18,4 +18,4 @@ Este repositorio alberga una aplicación desarrollada en Swift usando UIKit. Est
 - iOS 15.2 o superior.
 
 ### Visualización de la aplicación :iphone:
-![App Pantallas](https://github.com/YelkoLoncaM5/Rick_y_Morty_MVC/blob/main/App_Screens.png)
+![App Pantallas](https://github.com/YelkoLoncaM5/Rick_y_Morty_MVC/blob/main/App_Screen.png)
